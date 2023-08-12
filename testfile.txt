@@ -3,4 +3,7 @@ sudo git log
 sudo git log --oneline
 sudo git log --online --pretty
 sudo git clone "url"
-sudo git remote -v 
+sudo git remote -v
+git pull 
+git fetch
+git push 

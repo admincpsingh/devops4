@@ -1,0 +1,4 @@
+sudo git status 
+sudo git log
+sudo git log --oneline
+sudo git log --online --pretty
